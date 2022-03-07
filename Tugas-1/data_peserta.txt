@@ -1,0 +1,6 @@
+Data Peserta Jabar Coding Camp Golang
+1. Nama: Heldi Tio Pratama
+2. Email: pratamahelditio@gmail.com
+3. Sistem Operasi yang digunakan: Windows
+4. Akun Gitlab/Github: pratamahelditio
+5. Akun Telegram: tam132 (Heldi Tio pratama)
